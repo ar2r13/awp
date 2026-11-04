@@ -2,7 +2,7 @@
 
 Status: UNINITIALIZED
 Protocol: AWP 0.1
-Protocol base: REPLACE_WITH_PROTOCOL_BASE
+Protocol base: https://raw.githubusercontent.com/ar2r13/awp/e332309ecc568c106bc84107a13acdf5107c1c5d
 
 This is the only file needed to start a new workspace. The base above must be
 an owner-selected absolute local directory or an HTTPS raw GitHub repository URL
